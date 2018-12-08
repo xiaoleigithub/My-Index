@@ -4,4 +4,4 @@
 - <a target="_blank" href="http://vpnnet.win/">微ping网游加速平台</a>
 - <a target="_blank" href="https://www.youtube.com/channel/UCXhWKWQ-n4ktWKp4zQAGdTw">Youtube频道</a>
 - <a target="_blank" href="https://t.me/joinchat/JJVz3RGJmQHqSmoBJdNSNA">电报群组</a>
-- <a target="_blank" href="http://t.cn/E77RgVA/">开发者捐赠</a>
+- <a target="_blank" href="http://t.cn/E77RgVA">开发者捐赠</a>
