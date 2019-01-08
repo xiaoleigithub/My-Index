@@ -12,3 +12,13 @@
 - <a target="_blank" href="http://blog.vpnnet.win/index.php/2018/07/15/%E5%85%B1%E4%BA%AB%E5%B8%90%E5%8F%B7/">停机坪-临时备用</a>
 - <a target="_blank" href="http://t.cn/E77RgVA">开发者捐赠</a>
 -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-131915845-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-131915845-1');
+</script>
