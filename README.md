@@ -6,6 +6,7 @@
 - <a target="_blank" href="https://xiaoleigithub.github.io/ssr_app_download/">正版IOS_Shadowrocket 下载</a>
 - <a target="_blank" href="https://selly.gg/u/wang2018/">微ping网游-充值码</a>_付款可选择底部的银行卡付款，支持普通银联卡！
 - <a target="_blank" href="https://t.me/joinchat/JJVz3RGJmQHqSmoBJdNSNA">电报群组</a>
+- <a target="_blank" href="http://xxlei.win/">小垒博客站点</a>
 - <a target="_blank" href="https://cove.cloud/auth/register?affid=2406">停机坪-海豚湾（最低￥9/月）</a>
 
 <!--
